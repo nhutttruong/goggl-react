@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goggl-react/static/css/main.bde6769e.css",
+    "main.js": "/goggl-react/static/js/main.521652fd.js",
+    "index.html": "/goggl-react/index.html",
+    "main.bde6769e.css.map": "/goggl-react/static/css/main.bde6769e.css.map",
+    "main.521652fd.js.map": "/goggl-react/static/js/main.521652fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde6769e.css",
+    "static/js/main.521652fd.js"
+  ]
+}
